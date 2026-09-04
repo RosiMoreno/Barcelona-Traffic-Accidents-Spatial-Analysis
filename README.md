@@ -1,4 +1,4 @@
-# Accidentes_Barcelona_Hackaton_Octubre_2024
+# Barcelona-Traffic-Accidents-Spatial-Analysis
 Prueba de acceso a participar en el Hackaton y MarketPlace de Data Science organizado por el Saló de Ocupació y Barcelona Activa
 ## CONTENIDO carpeta HACKATON_2024 (Carpeta comprimida)
 ### 1. Carpeta Datos
