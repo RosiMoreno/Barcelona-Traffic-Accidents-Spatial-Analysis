@@ -1,5 +1,5 @@
 # Barcelona-Traffic-Accidents-Spatial-Analysis
-**Proyecto de análisis espacial y temporal de los accidentes de tráfico de Barcelona (2016-2023)**
+**Proyecto de análisis geoespacial y explotación masiva de datos de accidentalidad mediante QGIS y Power BI**
 
 - Tratamiento y explotación de más de 8 años de datos de accidentalidad.
 - Análisis espacial mediante QGIS.
